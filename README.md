@@ -31,6 +31,6 @@ import { MatDividerModule} from '@angular/material/divider';
 
 -Run "ng server" you will notice :
 ![image](https://github.com/user-attachments/assets/3756e5fb-ce3c-4a38-a49d-509b0fd2e3a5)
-NB: here there is pink color back to our <h1>Hllo World</h1> because of a css property that i put.
+NB: here there is pink color back to our <h1>Hello World</h1> because of a css property that i put.
 
 
